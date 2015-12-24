@@ -11,4 +11,4 @@ Finnaly type the following command to run the codes.
 ```
 java jade.Boot -gui s1:BookSellerAgent m:BookManagerAgent "b1:BookBuyerAgent(book_title)"
 ```
-buyer needs an argument of the title for the purchasing book.
+buyer needs an argument of the title for the target book.
